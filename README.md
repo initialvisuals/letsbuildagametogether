@@ -1,2 +1,2 @@
-# letsbuildagametogether
-Let's build a game in python together!
+#letsbuildagametogether
+#Let's build a game in python together!
