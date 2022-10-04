@@ -1,0 +1,36 @@
+-fix player classes and the main update so that they work properly.
+
+-shooting for both players, indepenedent speeds, weapons and bonuses per player depending on who picks up what item.
+
+-parallax scrolling for world background
+
+-enemies, several types
+
+-decide what style of game this will be, feel free to put suggestions down below here and just leave a comment with your name if you want.
+#@initialvisuals
+
+-set up the setup.py to work properly.
+
+-compile to exe 
+
+-automatically get screen width and height and set the window to that, fix fullscreen on slash key to update the bounds as well
+
+
+-waves, timers etc for gameplay loop. 
+
+-controller support
+
+-network play support
+
+-varied environments
+
+-players can upgrade their ships and swap out modules for them to customize the look and feel of the ship
+
+-randomize runs for those roguelite fans
+
+-2D? 3D? 4D? 5D? 
+
+-what are the challenges? what are the goals?
+
+
+
