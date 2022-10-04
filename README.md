@@ -3,10 +3,10 @@
 
 #recommended to use python 3.10.7
 
-#dependencies
+#dependencies are in requirements.txt file
+#you can install them with pip3 install -r requirements.txt
+#I use github copilot so sometimes things get a little screwy ;)
 
-#pip install pygame
-#pip install pymunk
 
 
 

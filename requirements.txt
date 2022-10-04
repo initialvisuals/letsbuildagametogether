@@ -1,2 +1,12 @@
-nose
-sphinx
+#please update as you go
+#python 3.10.7
+pygame
+pymunk 
+os
+time
+random
+sys
+math
+pygame.locals
+
+
